@@ -6,6 +6,8 @@ resolver: lts-7.9
 packages:
 - '.'
 
-extra-deps: []
+extra-deps:
+- store-0.3
+- store-core-0.3
 
 flags: {}
